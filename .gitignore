@@ -1,0 +1,4 @@
+*.env
+ugc/*
+vendor/*
+assets/autodrawer/*
